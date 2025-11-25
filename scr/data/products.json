@@ -9,7 +9,7 @@
     "stock": 100,
     "category": "miel",
     "thumbnails": [
-      "url_imagen_1.jpg"
+      "https://www.ecoplaza.es/27254-large_default/miel-eucalipto-muria-500-gr.jpg"
     ]
   },
   {
@@ -19,18 +19,16 @@
     "code": "MIEL002",
     "price": 5000,
     "status": true,
-    "stock": 50,
+    "stock": 100,
     "category": "miel",
     "thumbnails": [
-      "url_imagen_2.jpg"
+      "https://mielmayem.com/cdn/shop/files/girasol-natural-500g.jpg?v=1758279217"
     ]
   },
   {
     "id": 3,
     "status": true,
-    "thumbnails": [
-      "imagen1.jpg"
-    ],
+    "thumbnails": ["imagen1.jpg"],
     "title": "Miel de Jacaranda",
     "description": "Miel pura de jacaranda 1kg",
     "code": "MIEL003",
