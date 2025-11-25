@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "Miel de Eucalipto 1/4kg",
+    "description": "Frasco de medio kilo de miel pura de eucalipto",
+    "code": "MIEL001",
+    "price": 5000,
+    "status": true,
+    "stock": 100,
+    "category": "miel",
+    "thumbnails": [
+      "url_imagen_1.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Miel de Girasol 1/2kg",
+    "description": "Frasco de medio kilo de miel pura de girasol",
+    "code": "MIEL002",
+    "price": 5000,
+    "status": true,
+    "stock": 50,
+    "category": "miel",
+    "thumbnails": [
+      "url_imagen_2.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "status": true,
+    "thumbnails": [
+      "imagen1.jpg"
+    ],
+    "title": "Miel de Jacaranda",
+    "description": "Miel pura de jacaranda 1kg",
+    "code": "MIEL003",
+    "price": 5000,
+    "stock": 20,
+    "category": "miel"
+  }
+]
