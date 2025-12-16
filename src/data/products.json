@@ -28,7 +28,9 @@
   {
     "id": 3,
     "status": true,
-    "thumbnails": ["imagen1.jpg"],
+    "thumbnails": [
+      "imagen1.jpg"
+    ],
     "title": "Miel de Jacaranda",
     "description": "Miel pura de jacaranda 1kg",
     "code": "MIEL003",
